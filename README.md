@@ -1,7 +1,6 @@
 # YOLO_v5
 
 ## YOLOv5 clone
-
 ```bash
 !git clone https://github.com/ultralytics/yolov5.git
 
